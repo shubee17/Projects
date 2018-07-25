@@ -1,0 +1,17 @@
+p.a {
+    font-style: italic;
+}
+
+img {
+    border: 2px solid indigo;
+    border-radius: 12px;
+    padding: 10px;
+    width: 275px;
+}
+
+body {
+    width: 825px;
+    height: 700px;
+    background-image: url("https://downloadhdwallpapers.in/wp-content/uploads/2018/06/Funny-Computer-Animated-Gif-Sweet.gif");
+    background-color: #cccccc;
+}
